@@ -1,0 +1,12 @@
+wp-config.php
+
+.htaccess
+license.txt
+readme.html
+sitemap.xml
+sitemap.xml.gz
+
+.DS_Store
+
+wp-content/cache/
+wp-content/uploads
